@@ -6,6 +6,7 @@ markdown: kramdown
 theme: minima
 
 header_pages:
+  - index.md
   - about.md
   - research-interests.md
   - projects.md
