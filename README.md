@@ -1,8 +1,8 @@
 ### My research website repo.
 
-/Downloads: A place to store small files/pngs/maps/unrelated to personal website
+/downloads: A place to store small files/pngs/maps/unrelated to personal website
 
-/Images: Where images for .md files on personal website are stored.
+/images: Where images for .md files on personal website are stored.
 
 /about.md : About page for personal website.
 
