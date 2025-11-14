@@ -5,6 +5,12 @@ url: "https://github.com/jskelly1/jskelly1.github.io" # Update with your GitHub 
 markdown: kramdown
 theme: minima
 
+header_pages:
+  -about.md
+  -research-interests.md
+  -projects.md
+  -fieldwork-photos.md
+  -contact.md
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
