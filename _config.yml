@@ -1,7 +1,7 @@
-title: Jayden Skelly
-description: Montana State University
+title: Jayden Skelly, personal website
+description: Ecologist
 baseurl: "" # Leave empty if using username.github.io
-url: "https://yourusername.github.io" # Update with your GitHub username
+url: "https://github.com/jskelly1/jskelly1.github.io" # Update with your GitHub username
 
 # Build settings
 markdown: kramdown
