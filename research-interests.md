@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Interests
+title: Research
 ---
 I am an emerging research ecologist with a focus on conservation, wildlife ecology, and spatial data science. In the long term I plan to work in academia, non-profit or government positions to help answer applied conservation questions by bridging field-based work with new quantitative methods and spatial dimensions. I believe in a world of rapid global change, remote sensing and big data are integral tools in applied conservation research of large landscape-wide, trans-boundary decisions, for managers, practitioners, and tenders to the natural world alike. I recognize that while these tools offer one way to view the natural world, crafting decisions requires multiple lens to develop sound change, and wish to uplift all views, particularly underrepresented views with my scientific support. <br>
 
