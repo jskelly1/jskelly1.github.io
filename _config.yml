@@ -11,7 +11,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-footer_text: "© 2025 Jayden Skelly."
+bundle show minima
 
 # Exclude files
 exclude:
