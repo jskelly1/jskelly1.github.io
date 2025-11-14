@@ -25,6 +25,22 @@
             border-bottom: 2px solid #000;
             padding-bottom: 20px;
             margin-bottom: 40px;
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+
+        .profile-photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #000;
+            flex-shrink: 0;
+        }
+
+        .header-content {
+            flex: 1;
         }
 
         h1 {
@@ -136,6 +152,16 @@
                 padding: 20px 15px;
             }
 
+            header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .profile-photo {
+                width: 120px;
+                height: 120px;
+            }
+
             h1 {
                 font-size: 2em;
             }
@@ -149,14 +175,17 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p class="subtitle">PhD Student in [Your Field] at [Your University]</p>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#research">Research</a>
-            <a href="#publications">Publications</a>
-            <a href="#contact">Contact</a>
-        </nav>
+        <img src="images/profilephoto.jpg" alt="Your Name" class="profile-photo">
+        <div class="header-content">
+            <h1>Your Name</h1>
+            <p class="subtitle">PhD Student in [Your Field] at [Your University]</p>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#research">Research</a>
+                <a href="#publications">Publications</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
     </header>
 
     <section id="about">
