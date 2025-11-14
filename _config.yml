@@ -6,11 +6,11 @@ markdown: kramdown
 theme: minima
 
 header_pages:
-  -about.md
-  -research-interests.md
-  -projects.md
-  -fieldwork-photos.md
-  -contact.md
+  - about.md
+  - research-interests.md
+  - projects.md
+  - fieldwork-photos.md
+  - contact.md
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
