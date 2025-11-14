@@ -12,6 +12,7 @@ header_pages:
   - projects.md
   - fieldwork-photos.md
   - contact.md
+  - news.md
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
