@@ -11,8 +11,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-bundle show minima
-
 # Exclude files
 exclude:
   - README.md
