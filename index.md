@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 <center><img src="/images/glacier.jpg" width="500"> <center> <br>
-
-## Welcome. <br>
+  
+## Welcome. 
 My name is __Jayden Skelly__. I am an emerging ecologist interested in large scale conservation topics and research. <br>
 I seek to connect to a sense of place through understanding of the natural world, movement, photography, and local food. <br>
 I am currently based in Bozeman, Montana. USA. Check out my work below. <br>
@@ -17,5 +17,4 @@ I am currently based in Bozeman, Montana. USA. Check out my work below. <br>
 
 __Open source website__ <br>
 I support open-access science and software. This website is run on Jekyll and Markdown and hosted on github [here.](https://github.com/jskelly1/jskelly1.github.io) <br>
-All images are my own unless stated.
-<small>@ Landing page image of Glacier National Park, MT. Jayden Skelly, Sept. 2024. </small>
+<small>All images are my own unless stated. Landing page image of Glacier National Park, MT, Sept. 2024. </small>
