@@ -2,13 +2,14 @@
 layout: default
 title: Home
 ---
+## Welcome.
 
-# Welcome to My Site
+![ ](/images/glacier.jpg)
 
-This is the landing page for my GitHub Pages site.
-
-## About This Site
-
-A simple, clean static site hosted on GitHub Pages.
+My name is __Jayden Skelly__. I am an emerging ecologist interested in large scale conservation topics and research. \
+I seek to connect to a sense of place through understanding of the natural world, movement, photography, and local food. \
+I am currently based in Bozeman, Montana. USA. Check out my work below.
 
 [About Me](/about)
+
+__Open source website__
