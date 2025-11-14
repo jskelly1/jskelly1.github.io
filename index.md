@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<center><img src="/images/glacier.jpg" width="500"> <center> <br>
+<img src="/images/glacier.jpg" width="500"><br>
   
 ## Welcome. 
 My name is __Jayden Skelly__. I am an emerging ecologist interested in large scale conservation topics and research. <br>
