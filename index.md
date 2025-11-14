@@ -2,8 +2,9 @@
 layout: default
 title: Home
 ---
+<center><img src="/images/glacier.jpg" width="500"> <center> <br>
+
 ## Welcome. <br>
-<img src="/images/glacier.jpg" width="600"> <br>
 My name is __Jayden Skelly__. I am an emerging ecologist interested in large scale conservation topics and research. <br>
 I seek to connect to a sense of place through understanding of the natural world, movement, photography, and local food. <br>
 I am currently based in Bozeman, Montana. USA. Check out my work below. <br>
