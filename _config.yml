@@ -1,11 +1,14 @@
 title: Jayden Skelly
 description: Montana State University
-show_downloads: true
-#google_analytics: UA-98690382-1
-permalink: /:categories/:year-:month-:day-:title.html
-pages_list:
-  Home: '/index'
-  about: '/about'
-plugins:
-  - jekyll-feed
-github: [metadata]
+baseurl: "" # Leave empty if using username.github.io
+url: "https://yourusername.github.io" # Update with your GitHub username
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
