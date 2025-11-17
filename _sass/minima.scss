@@ -49,3 +49,10 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+/* Custom style for the expandable summary */
+.large-summary-text {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 1.2em;  /* Makes the text larger (adjust 1.2em as desired) */
+    cursor: pointer;   /* Ensures the hand cursor appears on hover */
+}
