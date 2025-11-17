@@ -2,4 +2,10 @@
 layout: default
 title: Projects
 ---
-2025 Pronghorn
+<details>
+  <summary><span class="large-summary-text">Examining pronghorn winter habitat selection </summary>
+
+  Using 700 individually collared animals
+  
+
+</details>
