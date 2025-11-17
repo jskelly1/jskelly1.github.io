@@ -3,13 +3,19 @@ layout: default
 title: Contact
 ---
 
-I am always interested in chatting and networking. Please reach out via,
+I am always interested in chatting and networking.
+Currently, I am seeking opportunities to expand my peer-review experience and further my education with a PhD beginning in 2026 or 2027.
+Please reach out via,
 
 Email: jaydenskelly[at]montana.edu 
 
+## You can also find me on:
+
 BlueSky: jaydenskelly[at]bsky.app
 
-[![ORCid](images/orcid.svg)]([URL for the link](https://orcid.org/0009-0000-2144-9016))
+ORCid: https://orcid.org/0009-0000-2144-9016
 
-<br><a href="https://github.com/jskelly1"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">
+Github: <a href="https://github.com/jskelly1"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">
+
+[Back to Home](/)
 
