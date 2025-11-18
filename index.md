@@ -12,7 +12,6 @@ My name is __Jayden Skelly__. I am an emerging ecologist interested in large sca
 [Projects](/projects) <br>
 [Fieldwork Photos](/fieldwork-photos) <br>
 [Contact](/contact) <br>
-[News](/news) <br>
 
 __Open source website__ <br>
 I support open-access science and software. This website is based on [minima](https://github.com/jekyll/minima) and hosted on github [here.](https://github.com/jskelly1/jskelly1.github.io) <br>
