@@ -49,7 +49,7 @@ title: Projects
   <summary>Assisting with Bighorn Sheep Nutrition and Behavior Research in Wyoming</summary>
   <img src="/images/sheep.png" alt="Bighorn Sheep" />
   <br>
-  <p>In 2022, while working for the NW Wyoming Bighorn Sheep Project and the <a href="https://monteithshop.org/" target="_blank">Monteith Shop</a> , I assisted on fieldwork related to research on bighorn sheep behavior and nutrition. Specifically, I captured lambs to outfit with GPS-collars and collected plant samples to estimate nutrition across the study area. Over intensive backpacking trips in the Wind River Range, WY we worked in small teams to support the project. I also assisted with other ungulate research on moose and mule deer in NW Wyoming.</p>
+  <p>In 2022, while working for the NW Wyoming Bighorn Sheep Project and the <a href="https://monteithshop.org/" target="_blank">Monteith Shop</a> , I assisted with fieldwork related to bighorn sheep behavior and nutrition. Specifically, I captured lambs to outfit with GPS-collars and collected plant samples to estimate nutrition across the study area. Over intensive backpacking trips in the Wind River Range, WY we worked in small teams to support the project. I also assisted with other ungulate research on moose and mule deer in NW Wyoming.</p>
 </details>
 
 <details>
