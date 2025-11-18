@@ -5,93 +5,62 @@ title: Projects
 ## Selected projects and examples
 <details>
   <summary>Habitat Selection across Scales, Montana Pronghorn in Winter</summary>
-
-  ![Habitat Selection Analysis](/images/hsa.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/hsa.png" alt="Habitat Selection Analysis" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Mechanistic Explanations of Facultative Movements using Simulations From ISSA</summary>
-
-  ![Mechanistic Explanations of Facultative Movements](/images/agent_based.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/agent_based.png" alt="Mechanistic Explanations of Facultative Movements" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Connectivity Modeling in the GYE</summary>
-
-  ![Connectivity modeling in the GYE](/images/gye_connectivity.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/gye_connectivity.png" alt="Connectivity modeling in the GYE" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Novel Drone Based Biodiversity Monitoring in Amazonas, Brazil</summary>
-
-  ![Drone Based Biodiversity Monitoring](/images/xprize.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/xprize.png" alt="Drone Based Biodiversity Monitoring" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Field Based Biodiversity Monitoring and Biogeography in the Uatumã Preserve, Brazil</summary>
-
-  ![Field Based Biodiversity Monitoring](/images/audiomoth.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/audiomoth.png" alt="Field Based Biodiversity Monitoring" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Assisting with ESA-Listed Arctic Sea Duck Recovery in Utqiagvik, AK</summary>
-
-  ![SA-Listed Arctic Sea Duck Recovery](/images/alaska.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/alaska.png" alt="ESA-Listed Arctic Sea Duck Recovery" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Assisting with Bighorn Sheep Nutrition and Behavior Research in Wyoming</summary>
-
-  ![Bighorn Sheep](/images/sheep.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/sheep.png" alt="Bighorn Sheep" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Integrating Remote Sensing into Field Based Monintoring in Powderhorn Wilderness, Colorado</summary>
-
-  ![Remote sensing in Powderhorn Wilderness](/images/powderhorn.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/powderhorn.png" alt="Remote sensing in Powderhorn Wilderness" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
   <summary>Assisting with Golden Eagle Nestling Toxicology and Diet Fieldwork</summary>
-
-  ![Golden Eagle Nestling Toxicology](/images/goldeneagle.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/goldeneagle.png" alt="Golden Eagle Nestling Toxicology" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
-  <summary>Incorporating DTM and DSM into Viewsheds for Behavior Analysis </summary>
-
-  ![Predator View](/images/pred_view.png)
-  
-  Use the function and view the code [here.](https://github.com/jskelly1/ground.predator.viewshed)
-  
-
+  <summary>Incorporating DTM and DSM into Viewsheds for Behavior Analysis</summary>
+  <img src="/images/pred_view.png" alt="Predator View" />
+  <p>Use the function and view the code [here.](https://github.com/jskelly1/ground.predator.viewshed)</p>
 </details>
 
 ## Personal projects and fun...
