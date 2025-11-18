@@ -6,25 +6,25 @@ title: Projects
 <details>
   <summary>Habitat Selection across Scales, Montana Pronghorn in Winter</summary>
   <img src="/images/hsa.png" alt="Habitat Selection Analysis" />
-  <p>Using 700 individually collared animals</p>
+  <p>In junction with <a href="https://fwp.mt.gov/" target="_blank">Montana Fish, Wildlife, and Parks</a> and the <a href="https://www.beckerecologylab.org/" target="_blank">Becker Lab </a> at Montana State University, I am researching habitat selection in 8 pronghorn herds across Montana in winter. Understanding winter habitat requirements is an emerging research area (see <a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf" target="_blank">DOI 3362 order</a>: Improving Habitat Quality in Western Big-Game Winter Range and Migration Corridors). Using data from ca. 700 pronghorn collared for 1-3 winters, I am using habitat selection analyses to pair gps-collar movement data with spatially explicit layers in time such as snow properties, fencing, nutritional qualities to test hypotheses on what is important to pronghorn at varying scales, across a diaspora of different winter experiences from plains to mountains in Montana. I aim to complete my thesis by Fall 2026. </p>
 </details>
 
 <details>
   <summary>Mechanistic Explanations of Facultative Movements using Simulations From ISSA</summary>
   <img src="/images/agent_based.png" alt="Mechanistic Explanations of Facultative Movements" />
-  <p>Using 700 individually collared animals</p>
+  <p>Snow depth and snow properties in grassland & shrub landscapes are often unpredictable. Pronghorn are hypothesized to make facultative or large irruptive movements mid-winter to avoid severe snow and can be disrupted by linear features such as fencing. While previous research has demonstrated associations between pronghorn facultative movements and snow, our goal is to mechanistically understand this phenomenon from a habitat selection-movement modeling framework using simulations. In junction with <a href="https://fwp.mt.gov/" target="_blank">Montana Fish, Wildlife, and Parks</a> and the <a href="https://www.beckerecologylab.org/" target="_blank">Becker Lab </a> at Montana State University, we are examining how facultative movements form in pronghorn. We are asking: How do simulated pronghorn movements compare to empirical movements when snow properties or fencing are removed?</p>
 </details>
 
 <details>
   <summary>Connectivity Modeling in the GYE</summary>
   <img src="/images/gye_connectivity.png" alt="Connectivity modeling in the GYE" />
-  <p>Using 700 individually collared animals</p>
+  <p>In classes such as Landscape Ecology, I have built skills to model landscape connectivity and validation through behavioral simulations using resistance surfaces from habitat selection analyses, and  behavior-agnostic models such as randomized shortest paths. For example, in the above image, I simulated connectivity between 3 areas with varying degrees of theta (a parameter which describes randomness) and functional response to the resistance surface. </p>
 </details>
 
 <details>
   <summary>Novel Drone Based Biodiversity Monitoring in Amazonas, Brazil</summary>
   <img src="/images/xprize.png" alt="Drone Based Biodiversity Monitoring" />
-  <p>Using 700 individually collared animals</p>
+  <p>In 2024 I took part of the <a href="https://mol.org/rapidassessments" target="_blank">MOLRA team</a>, as a member of the <a href="https://bgc.yale.edu/" target="_blank">Yale BGC</a> , in the <a href="https://www.xprize.org/competitions/rainforest" target="_blank">XPRIZE biodiversity</a> monitoring competition. Our team was awarded second place ($2 million), for developing novel methods to monitor biodiversity with drone based platforms, remote sensing, human-in-the-loop species identification, E-DNA, acoustic monitoring, and AI models. I specifically worked on developing field based methods, drone platforms, and tools to collect audio, visual and E-DNA samples.</p>
 </details>
 
 <details>
@@ -114,3 +114,4 @@ title: Projects
   </p>
 </details>
 
+[Back to Home](/)
