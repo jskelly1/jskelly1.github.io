@@ -4,7 +4,7 @@ title: Projects
 ---
 ## Selected projects and examples
 <details>
-  <summary><span class="large-summary-text">Habitat Selection across Scales, Montana Pronghorn in Winter</span></summary>
+  <summary>Habitat Selection across Scales, Montana Pronghorn in Winter</summary>
 
   ![Habitat Selection Analysis](./images/hsa.png)
   Using 700 individually collared animals
@@ -13,7 +13,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Mechanistic Explanations of Facultative Movements using Simulations From ISSA</span></summary>
+  <summary>Mechanistic Explanations of Facultative Movements using Simulations From ISSA</summary>
 
   ![Habitat Selection Analysis](./images/agent_based.png)
   Using 700 individually collared animals
@@ -22,7 +22,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Connectivity modeling in the GYE</span></summary>
+  <summary>Connectivity modeling in the GYE</summary>
 
   ![Habitat Selection Analysis](./images/gye_connectivity.png)
   Using 700 individually collared animals
@@ -31,7 +31,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Novel Drone Based Biodiversity Monitoring in Amazonas, Brazil </span></summary>
+  <summary>Novel Drone Based Biodiversity Monitoring in Amazonas, Brazil</summary>
 
   ![Habitat Selection Analysis](./images/xprize.png)
   Using 700 individually collared animals
@@ -40,7 +40,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Field Based Biodiversity Monitoring across space, Uatumã Preserve </span></summary>
+  <summary>Field Based Biodiversity Monitoring across space, Uatumã Preserve</summary>
 
   ![Habitat Selection Analysis](./images/audiomoth.png)
   Using 700 individually collared animals
@@ -49,7 +49,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Assisting with ESA-Listed Arctic Sea Duck Recovery in Utqiagvik, AK </span></summary>
+  <summary>Assisting with ESA-Listed Arctic Sea Duck Recovery in Utqiagvik, AK</summary>
 
   ![Habitat Selection Analysis](./images/alaska.png)
   Using 700 individually collared animals
@@ -58,7 +58,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Assisting with Bighorn Sheep Nutrition and Behavior Research in Wyoming </span></summary>
+  <summary>Assisting with Bighorn Sheep Nutrition and Behavior Research in Wyoming</summary>
 
   ![Habitat Selection Analysis](./images/sheep.png)
   Using 700 individually collared animals
@@ -67,7 +67,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Integrating remote sensing into field based monintoring in Powderhorn Wilderness, Colorado </span></summary>
+  <summary>Integrating remote sensing into field based monintoring in Powderhorn Wilderness, Colorado</summary>
 
   ![Habitat Selection Analysis](./images/powderhorn.png)
   Using 700 individually collared animals
@@ -76,7 +76,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">Assisting with Golden Eagle Nestling Toxicology and Diet Fieldwork </span></summary>
+  <summary>Assisting with Golden Eagle Nestling Toxicology and Diet Fieldwork</summary>
 
   ![Habitat Selection Analysis](./images/goldeneagle.png)
   Using 700 individually collared animals
@@ -87,7 +87,7 @@ title: Projects
 ## Personal projects and fun...
 
 <details>
-  <summary><span class="large-summary-text">Creating Physical 3D Models with DEM and 3D Printers </span></summary>
+  <summary>Creating Physical 3D Models with DEM and 3D Printers</summary>
 
   ![Habitat Selection Analysis](./images/3dprint.png)
   Using 700 individually collared animals
@@ -96,7 +96,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span class="large-summary-text">250+ User Texas A and M Job Board List Serve Email Alert Bot </span></summary> <br>
+  <summary>250+ User Texas A and M Job Board List Serve Email Alert Bot</summary> <br>
   
 | Word | Title | Url |
 |---|---|---|
@@ -110,7 +110,7 @@ The script is hosted on pythonanywhere. [Click to sign up!](https://docs.google.
 
 
 
-Code is available here.
+Code is available [here.](https://github.com/jskelly1/TAMU_bot/blob/main/emailalert.py)
   
 
 </details>
