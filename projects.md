@@ -60,36 +60,57 @@ title: Projects
 <details>
   <summary>Incorporating DTM and DSM into Viewsheds for Behavior Analysis</summary>
   <img src="/images/pred_view.png" alt="Predator View" />
-  <p>Use the function and view the code [here.](https://github.com/jskelly1/ground.predator.viewshed)</p>
+<p>Use the function and view the code <a href="https://github.com/jskelly1/ground.predator.viewshed" target="_blank">here</a>.</p>
 </details>
 
 ## Personal projects and fun...
 
 <details>
   <summary>Creating Physical 3D Models with DEM and 3D Printers</summary>
-
-  ![Creating Physical 3D Models with DEM](/images/3dprint.png)
-  Using 700 individually collared animals
-  
-
+  <img src="/images/3dprint.png" alt="Creating Physical 3D Models with DEM" />
+  <p>Using 700 individually collared animals</p>
 </details>
 
 <details>
-  <summary>250+ User Texas A and M Job Board List Serve Email Alert Bot</summary> <br>
-  
-| Word | Title | Url |
-|---|---|---|
-| Montana | range wildlife biologist | https://jobs.rwfm.tamu.edu/view-job/?id=103047 |
-| Montana | wildlife management biologist |  biologist	https://jobs.rwfm.tamu.edu/view-job/?id=103052 |
+  <summary>250+ User Texas A and M Job Board List Serve Email Alert Bot</summary>
+  <br>
 
-Currently, I maintain a 250+ person job board list serve that sends daily emails based on custom keywords found in new Texas A and M Job Board posts. Natural resource jobs are competitive and applying and searching for jobs is not conducive to those who have less time to monitor the website daily. Instead, I hope this tool can improve accessibility to job applying.
+  <table>
+    <thead>
+      <tr>
+        <th>Word</th>
+        <th>Title</th>
+        <th>Url</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Montana</td>
+        <td>range wildlife biologist</td>
+        <td><a href="https://jobs.rwfm.tamu.edu/view-job/?id=103047" target="_blank">https://jobs.rwfm.tamu.edu/view-job/?id=103047</a></td>
+      </tr>
+      <tr>
+        <td>Montana</td>
+        <td>wildlife management biologist</td>
+        <td><a href="https://jobs.rwfm.tamu.edu/view-job/?id=103052" target="_blank">https://jobs.rwfm.tamu.edu/view-job/?id=103052</a></td>
+      </tr>
+    </tbody>
+  </table>
 
-The script is hosted on pythonanywhere. [Click to sign up!](https://docs.google.com/forms/d/e/1FAIpQLSfr7xaa9CCVFrVngGTUppUB428WgkTQthqb51d7XWEf6Fyzgg/viewform) and [remove yourself here.](https://jaydenskelly.pythonanywhere.com/)
+  <p>
+    Currently, I maintain a 250+ person job board list serve that sends daily emails based on custom keywords found in new Texas A and M Job Board posts. Natural resource jobs are competitive and applying and searching for jobs is not conducive to those who have less time to monitor the website daily. Instead, I hope this tool can improve accessibility to job applying.
+  </p>
 
+  <p>
+    The script is hosted on pythonanywhere.
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfr7xaa9CCVFrVngGTUppUB428WgkTQthqb51d7XWEf6Fyzgg/viewform" target="_blank">Click to sign up!</a>
+    and
+    <a href="https://jaydenskelly.pythonanywhere.com/" target="_blank">remove yourself here.</a>
+  </p>
 
-
-
-Code is available [here.](https://github.com/jskelly1/TAMU_bot/blob/main/emailalert.py)
-  
-
+  <p>
+    Code is available
+    <a href="https://github.com/jskelly1/TAMU_bot/blob/main/emailalert.py" target="_blank">here.</a>
+  </p>
 </details>
+
