@@ -16,10 +16,7 @@ Lastly, **we can continually improve how we support our community**. Conservatio
 
 **Plain language research statement:** _Hi, my name is Jayden. I am a scientist who studies how animals and their environment are connected. I look at how animals change their behavior, how they move, and how they choose their habitats. I believe that understanding these connections can help us make better decisions to protect wildlife. I enjoy sharing my findings with others to raise awareness about the importance of conservation. My goal is to inspire people to care about and protect the natural world. By working together and prioritizing nature, we can make a difference for the ecosystem we are a part of, which supports human well being, animals, and our planet._]<br>
 
+<a href="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf">Download my CV here</a>. <br>
 <embed src="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf" type="application/pdf" width="100%" height="600px" />
-
-<object data="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Your browser does not support PDF viewers. <a href="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf">Download my CV here</a>.</p>
-</object>
 
 [Back to Home](/)
