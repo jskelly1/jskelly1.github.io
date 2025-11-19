@@ -74,9 +74,9 @@ redirect_from:
   <br>
 <p>In development of function to create viewsheds that account for DTM and DSM height when calculating line of sight between a target and observer on the ground. Use the function and view the code <a href="https://github.com/jskelly1/ground.predator.viewshed" target="_blank">here</a>.</p>
 </details>
-<br>
+
 ## Personal projects and fun...
-<br>
+
 <details>
   <summary>Creating Physical 3D Models with DEM and 3D Printers</summary>
   <img src="/images/3dprint.png" alt="Creating Physical 3D Models with DEM" />
