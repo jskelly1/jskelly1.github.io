@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Research Interests
+redirect_from:
+  - /research-interests/
 ---
 <img src="/images/ecology!.webp" width="500"><br>
 
