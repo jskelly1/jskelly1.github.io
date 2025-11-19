@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Contact
+redirect_from:
+  - /contact/
 ---
 
 I am always interested in chatting and networking.
