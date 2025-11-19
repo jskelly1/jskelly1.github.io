@@ -2,4 +2,17 @@
 layout: default
 title: Photos
 ---
-[](https://drive.google.com/thumbnail?id=1_1Ew-SRO-JzrgMwNwN_-By3wH5CaJ3k6TG&sz=w1000)
+
+
+<table>
+  <tr>
+    <td><img src="images/tetons/1.jpg" width="150"></td>
+    <td><img src="images/tetons/2.jpg" width="150"></td>
+    <td><img src="images/tetons/3.jpg" width="150"></td>
+    <td><img src="images/tetons/4.jpg" width="150"></td>
+    <td><img src="images/tetons/5.jpg" width="150"></td>
+  </tr>
+</table>
+
+
+
