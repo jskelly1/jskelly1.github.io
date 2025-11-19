@@ -18,4 +18,8 @@ Lastly, **we can continually improve how we support our community**. Conservatio
 
 <embed src="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf" type="application/pdf" width="100%" height="600px" />
 
+<object data="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDF viewers. <a href="{{ site.baseurl }}inforedacted_jskelly_cv_abridged.pdf">Download my CV here</a>.</p>
+</object>
+
 [Back to Home](/)
