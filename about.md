@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About
+redirect_from:
+  - /about/
 ---
 
 <img src="/images/profilephoto.jpg" width="500"><br>
