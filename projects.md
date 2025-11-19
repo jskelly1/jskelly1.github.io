@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 redirect_from:
-  - /project/
+  - /projects/
 ---
 ## Selected projects and examples
 <details>
