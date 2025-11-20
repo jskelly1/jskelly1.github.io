@@ -2,6 +2,7 @@
 layout: default
 title: Photos
 ---
+_If there are specific photos you are interested in using in publications, education, presentations etc. feel free to use with credit._
 
 **Montana - Wyoming** <br>
 {% raw %}
@@ -99,3 +100,4 @@ title: Photos
 {% endraw %}
 <br>
 
+[Back to Home](/)
