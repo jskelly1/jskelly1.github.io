@@ -10,7 +10,7 @@ My name is __Jayden Skelly__. I am an emerging ecologist interested in large sca
 [About Me](/about) <br>
 [Research Interests](/research-interests) <br>
 [Projects](/projects) <br>
-[Fieldwork Photos](/fieldwork-photos) <br>
+[Photography](/fieldwork-photos) <br>
 [Contact](/contact) <br>
 
 __Open source website__ <br>
