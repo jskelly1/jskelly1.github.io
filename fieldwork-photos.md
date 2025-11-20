@@ -2,7 +2,7 @@
 layout: default
 title: Photos
 ---
-_**Specific photos you are interested in using in publications, education, presentations, etc?** Feel free to use with credit (**@Jayden Skelly**). You can download photos by clicking - 'open image in new tab'._
+_**Specific photos you are interested in using in publications, education, presentations, etc?** Feel free to use with credit ([**@Jayden Skelly**](https://jaydenskelly.me/)). You can download photos by clicking - 'open image in new tab'._
 
 **Montana - Wyoming** <br>
 {% raw %}
