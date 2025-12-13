@@ -8,3 +8,5 @@ __/research-interests.md__: Research interests page for personal website.<br>
 __/projects.md__: Projects page for personal website.<br>
 __/fieldwork-photos.md__: Fieldwork photos page for personal website.<br>
 __/contact.md__: Contact page for personal website.<br>
+
+Link to get to Avery's backpacking checklist (archived.) https://jaydenskelly.me/BACKPACKING%20CHECKLIST
