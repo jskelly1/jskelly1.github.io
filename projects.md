@@ -6,24 +6,24 @@ redirect_from:
 ---
 ## Selected projects and examples
 <details>
-  <summary>Habitat Selection across Scales, Montana Pronghorn in Winter</summary>
-  <img src="/images/hsa.png" alt="Habitat Selection Analysis" />
+  <summary>Habitat selection and fragmentation, montana pronghorn in winter</summary>
+  <img src="/images/agent_based.png" alt="Mechanistic Explanations of Facultative Movements" />
   <br>
-  <p>In junction with <a href="https://fwp.mt.gov/" target="_blank">Montana Fish, Wildlife, and Parks</a> and the <a href="https://www.beckerecologylab.org/" target="_blank">Becker Lab </a> at Montana State University, I am researching habitat selection in 8 pronghorn herds across Montana in winter. Understanding winter habitat requirements is an emerging research area (see <a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf" target="_blank">DOI 3362 order</a>: Improving Habitat Quality in Western Big-Game Winter Range and Migration Corridors). Using data from ca. 700 pronghorn collared for 1-3 winters, I am using habitat selection analyses to pair gps-collar movement data with spatially explicit layers in time such as snow properties, fencing, nutritional qualities to test hypotheses on what is important to pronghorn at varying scales, across a diaspora of different winter experiences from plains to mountains in Montana. I aim to complete my thesis by Fall 2026. </p>
+  <p>In junction with <a href="https://fwp.mt.gov/" target="_blank">Montana Fish, Wildlife, and Parks</a> and the <a href="https://www.beckerecologylab.org/" target="_blank">Becker Lab </a> at Montana State University, I am researching habitat selection in 8 pronghorn herds across Montana in winter. Understanding winter habitat requirements is an emerging research area (see <a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf" target="_blank">DOI 3362 order</a>: Improving Habitat Quality in Western Big-Game Winter Range and Migration Corridors). Using data from ca. 700 pronghorn collared for 1-3 winters, I am using habitat selection analyses to pair gps-collar movement data with spatially explicit layers such as snow properties and forage sources to test hypotheses on what is important to pronghorn at varying scales. To quantify the effect of roads and fences on access to habitat, we are using simulations to scale up these effects. </p>
 </details>
 
 <details>
-  <summary>Mechanistic Explanations of Facultative Movements using Simulations From ISSA</summary>
+  <summary>Behavioral plasticity as a tool in unpredictable environments</summary>
   <img src="/images/agent_based.png" alt="Mechanistic Explanations of Facultative Movements" />
   <br>
-  <p>Snow depth and snow properties in grassland & shrub landscapes are often unpredictable. Pronghorn are hypothesized to make facultative or large irruptive movements mid-winter to avoid severe snow and can be disrupted by linear features such as fencing. While previous research has demonstrated associations between pronghorn facultative movements and snow, our goal is to mechanistically understand this phenomenon from a habitat selection-movement modeling framework using simulations. In junction with <a href="https://fwp.mt.gov/" target="_blank">Montana Fish, Wildlife, and Parks</a> and the <a href="https://www.beckerecologylab.org/" target="_blank">Becker Lab </a> at Montana State University, we are examining how facultative movements form in pronghorn. We are asking: How do simulated pronghorn movements compare to empirical movements when snow properties or fencing are removed?</p>
+  <p>Snow depth and snow properties in grassland & shrub landscapes are often unpredictable. Pronghorn are hypothesized to make irruptive movements mid-winter to avoid severe snow and can be disrupted by linear features such as fencing and roads. While previous research has demonstrated associations between pronghorn facultative movements and snow, our goal is to mechanistically explain this phenomenon. In junction with <a href="https://fwp.mt.gov/" target="_blank">Montana Fish, Wildlife, and Parks</a> and the <a href="https://www.beckerecologylab.org/" target="_blank">Becker Lab </a> at Montana State University, we are examining how winter movement strategies form in pronghorn and how linear features constrain this behavior.</p>
 </details>
 
 <details>
   <summary>Connectivity Modeling in the GYE</summary>
   <img src="/images/gye_connectivity.png" alt="Connectivity modeling in the GYE" />
   <br>
-  <p>In classes such as Landscape Ecology, I have built skills to model landscape connectivity and validation through behavioral simulations using resistance surfaces from habitat selection analyses, and  behavior-agnostic models such as randomized shortest paths. For example, in the above image, I simulated connectivity between 3 areas with varying degrees of theta (a parameter which describes randomness) and functional response to the resistance surface. </p>
+  <p>In classes such as Landscape ecology, I have built skills to model landscape connectivity and validation through behavioral simulations using resistance surfaces from habitat selection analyses, and  behavior-agnostic models such as randomized shortest paths. For example, in the above image, I simulated connectivity between 3 areas with varying degrees of theta (a parameter which describes randomness) and functional response to the resistance surface. </p>
 </details>
 
 <details>
